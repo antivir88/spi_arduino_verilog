@@ -1,4 +1,4 @@
 # spi_arduino_vhdl
 
-Arduino -> SPI -> vhdl  
-vhdl -> SPI -> Arduino
+Arduino -> SPI -> verilog  
+verilog -> SPI -> Arduino
